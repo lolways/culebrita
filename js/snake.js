@@ -32,7 +32,7 @@ window.onload = () => {
 
 function drawObjects(){
  
-  createRectangle(0, 0, canvas.width, canvas.height, 'rgb(40,40,40)');
+  createRectangle(0, 0, canvas.width, canvas.height, 'rgba(40,40,40,0.55)');
 
   createRectangle(foodPos[0], foodPos[1], block, block, 'rgb(128,0,128)');
 
