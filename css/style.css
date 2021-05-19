@@ -1,0 +1,12 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image:url(../imagenes/wp5062679-retro-80s-arcade-wallpapers.jpg)
+  
+}
+
+.canvas{
+  margin-top: 100px;
+  margin-left: 300px;
+  border: solid 2px rgb(0,255,0);
+}
